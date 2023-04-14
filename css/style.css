@@ -45,7 +45,7 @@ i{
     border: 2px;
 }
 .bgimg{
-    background-image: url(/img/bg1.webp);
+    background-image: url(/img/bg4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
@@ -70,4 +70,12 @@ ul{
 }
 .h4text{
     color: blue;
+}
+.logo{
+    border-radius: 500px 500px 500px 500px;
+    height: 100px;
+    width: 100px;
+}
+#navv{
+    margin: 35px;
 }
