@@ -1,0 +1,102 @@
+body{
+    margin: 10px;
+    padding: 10px;
+    flex-shrink: auto;
+}
+div{
+    padding: 5px;
+}
+i{
+    display: flex;
+    align-items: center;
+    color: darkgray;
+    width: 30px;
+    justify-items: center;
+}
+#icons{
+    justify-items: center;
+}
+.login{
+    border: 1px;
+    border-color: darkgray;
+    border-style: solid;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 3px;
+}
+.signup{
+    border: 1px;
+    border-color: darkgray;
+    border-style: solid;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 3px;
+}
+#navigation{
+    border: 2px;
+    border-style: none;
+    border-radius: 13px 13px 13px 13px;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+}
+#navigation:hover{
+    background-color: orange;
+    border: 2px;
+}
+.bgimg{
+    background-image: url(/img/bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.tutor1{
+    border-radius: 500px 500px 500px 500px;
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+ul{
+    float: left;   
+}
+.footnav:hover{
+    color: orange;
+    text-decoration: none;
+}
+.testimonies{
+    background-color: orangered;
+    color: white;
+    align-items: center;
+}
+.h4text{
+    color: blue;
+}
+.logo{
+    border-radius: 500px 500px 500px 500px;
+    height: 100px;
+    width: 100px;
+}
+#navv{
+    margin: 35px;
+}
+#clocksmart{
+    width: 300px;
+}
+.regform{
+    border-color:gainsboro;
+    border-style: solid;
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px;
+}
+.reglabel{
+    padding: 10px;
+}
+.reglab{
+    height: 40px;
+    width: 245px;
+    border-radius: 5px 5px 5px 5px;
+    border-color: gainsboro;
+}
+.reglab:hover{
+ color: aqua;   
+}
