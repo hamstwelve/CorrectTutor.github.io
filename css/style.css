@@ -79,3 +79,24 @@ ul{
 #navv{
     margin: 35px;
 }
+#clocksmart{
+    width: 300px;
+}
+.regform{
+    border-color:gainsboro;
+    border-style: solid;
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px;
+}
+.reglabel{
+    padding: 10px;
+}
+.reglab{
+    height: 40px;
+    width: 245px;
+    border-radius: 5px 5px 5px 5px;
+    border-color: gainsboro;
+}
+.reglab:hover{
+ color: aqua;   
+}
